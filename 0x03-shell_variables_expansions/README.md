@@ -6,4 +6,4 @@
  6. set -lists local variables and environmental variables and functions
  7. BEST="School"
  8. export BEST="School"
- 9. echo $((128+TRUEKNOWLEDGE))-prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE 
+ 9. echo $((128+TRUEKNOWLEDGE))-prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE10. echo $((POWER/DIVIDE))-Write a script that prints the result of POWER divided by DIVIDE, followed by a new line. 
