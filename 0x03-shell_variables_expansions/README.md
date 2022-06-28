@@ -5,4 +5,5 @@
  5. env-lists global variables
  6. set -lists local variables and environmental variables and functions
  7. BEST="School"
- 8. export BEST="School" 
+ 8. export BEST="School"
+ 9. echo $((128+TRUEKNOWLEDGE))-prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE 
